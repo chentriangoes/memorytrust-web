@@ -36,7 +36,7 @@ function Login(props) {
 				<h1>Login</h1>
 				<Form.Input
 					label='Username'
-					placeholder='Username... (Please make sure this is accurate)'
+					placeholder='Username...'
 					name='username'
 					type='text'
 					value={values.username}
