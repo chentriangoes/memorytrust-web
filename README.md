@@ -13,10 +13,6 @@ We initially wanted to create an app that can be used from patients who have dem
 
 Hence there is a JWT Token used within this app that hashes passwords so that the information has authentication
 
-This is a `Walk Through` video
-
-![GIF](web/public/walk-video.gif)
-
 ## Tabel of Contents
 
 * [Installation](#installation)
@@ -44,11 +40,6 @@ In order to run this application, you will need to do the following:
 `SECOND` ->
 
 - npm start
-
-
-** (Image below)
-
-![image](web/public/runDev.png)
 
 ** 
 
@@ -105,41 +96,12 @@ To run tests, please use the following command:
 - Javascript
 - JWT (JSONWebToken)
 
-## Making
-
-These are the screenshots of the code 
-
-typeDefs.js
-
-![Code-Snippet](web/public/typeDefs.png)
-
-createPost
-
-![Code-Snippet](web/public/createPost.png)
-
-comment.js mutations
-
-![Code-Snippet](web/public/comment.png)
-
-users.js mutations 
-
-![Code-Snippet](web/public/users.png)
-
-Apollo and check-auth.js 
-
-![Code-Snippet](web/public/checkAuth.png)
-
-Apollo uses integrated express and this is the proof
-
-![Code-Snippet](web/public/expressProof.png)
-
 ## Heroku Hosting Github Links
 
 - [Server] (https://github.com/chentriangoes/memorytrust-server)
 - [Client] (https://github.com/chentriangoes/memorytrust-web)
 
 ## Developers and Questions
-
 
 Please click the links below to visit our github pages
 
