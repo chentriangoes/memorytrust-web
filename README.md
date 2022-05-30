@@ -77,12 +77,6 @@ To run tests, please use the following command:
 
 - npm run test
 
-## Screenshots of deployed app
-
-![image_one](web/public/homepage.png)
-
-![image_two](web/public/profile.png)
-
 
 ## Technology
 
