@@ -1,3 +1,11 @@
+#root {
+	background-color: #e8d3af;
+}
+
+.ui.teal.massive.pointing.secondary.menu {
+	padding: 20px;
+}
+
 .page-title {
 	display: block !important;
 	text-align: center;
